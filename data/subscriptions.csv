@@ -1,0 +1,26 @@
+id,subscriptionNumber,accountNumber,status,productName,ratePlanName,quantity,listPricePerUnit,discountPercent,billingPeriod,termStartDate,termEndDate,mrr
+2c9000015ub0001,S00000001,A00000001,Active,Platform,Platform Starter Monthly,5,25.0,20,Month,2026-02-05,2027-01-31,100.0
+2c9000025ub0002,S00000002,A00000002,Active,Platform,Platform Starter Monthly,50,25.0,10,Month,2026-01-05,2026-12-31,1125.0
+2c9000035ub0003,S00000003,A00000003,Active,Platform,Platform Enterprise Annual,10,90.0,10,Annual,2026-03-17,2027-03-12,810.0
+2c9000045ub0004,S00000004,A00000004,Active,Platform,Platform Starter Monthly,250,25.0,0,Month,2026-03-31,2028-03-20,6250.0
+2c9000055ub0005,S00000005,A00000005,Active,Platform,Platform Starter Monthly,5,25.0,10,Month,2026-01-13,2028-01-03,112.5
+2c9000065ub0006,S00000006,A00000006,Active,Platform,Platform Enterprise Annual,5,90.0,15,Annual,2026-02-07,2027-02-02,382.5
+2c9000075ub0007,S00000007,A00000007,Active,Platform,Platform Pro Annual,50,50.0,0,Annual,2026-04-01,2027-03-27,2500.0
+2c9000085ub0008,S00000008,A00000008,Active,Platform,Platform Starter Monthly,100,25.0,0,Month,2026-04-09,2028-03-29,2500.0
+2c9000095ub0009,S00000009,A00000009,Active,Platform,Platform Enterprise Annual,100,90.0,0,Annual,2026-01-21,2027-01-16,9000.0
+2c9000105ub0010,S00000010,A00000010,Active,Platform,Platform Pro Annual,10,50.0,20,Annual,2026-02-04,2027-01-30,400.0
+2c9000115ub0011,S00000011,A00000011,Active,Platform,Platform Starter Monthly,50,25.0,20,Month,2026-01-22,2029-01-06,1000.0
+2c9000125ub0012,S00000012,A00000012,Active,Platform,Platform Pro Monthly,100,60.0,0,Month,2026-04-18,2027-04-13,6000.0
+2c9000135ub0013,S00000013,A00000013,Active,Platform,Platform Starter Monthly,10,25.0,15,Month,2026-04-23,2029-04-07,212.5
+2c9000145ub0014,S00000014,A00000014,Active,Platform,Platform Enterprise Annual,10,90.0,0,Annual,2026-01-18,2027-01-13,900.0
+2c9000155ub0015,S00000015,A00000015,Active,Platform,Platform Pro Annual,100,50.0,15,Annual,2026-02-24,2027-02-19,4250.0
+2c9000165ub0016,S00000016,A00000016,Active,Platform,Platform Enterprise Annual,20,90.0,0,Annual,2026-01-18,2027-01-13,1800.0
+2c9000175ub0017,S00000017,A00000017,Active,Platform,Platform Enterprise Annual,5,90.0,0,Annual,2026-04-21,2027-04-16,450.0
+2c9000185ub0018,S00000018,A00000018,Active,Platform,Platform Pro Monthly,100,60.0,0,Month,2026-04-12,2029-03-27,6000.0
+2c9000195ub0019,S00000019,A00000019,Active,Platform,Platform Enterprise Annual,50,90.0,0,Annual,2026-03-12,2027-03-07,4500.0
+2c9000205ub0020,S00000020,A00000020,Active,Platform,Platform Starter Monthly,100,25.0,15,Month,2026-04-07,2028-03-27,2125.0
+2c9000215ub0021,S00000021,A00000021,Active,Platform,Platform Enterprise Annual,10,90.0,10,Annual,2026-01-01,2026-12-27,810.0
+2c9000225ub0022,S00000022,A00000022,Active,Platform,Platform Pro Annual,50,50.0,0,Annual,2026-03-06,2027-03-01,2500.0
+2c9000235ub0023,S00000023,A00000023,Active,Platform,Platform Pro Annual,250,50.0,20,Annual,2026-03-06,2027-03-01,10000.0
+2c9000245ub0024,S00000024,A00000024,Active,Platform,Platform Pro Monthly,10,60.0,0,Month,2026-04-08,2027-04-03,600.0
+2c9000255ub0025,S00000025,A00000025,Active,Platform,Platform Pro Annual,25,50.0,0,Annual,2026-01-15,2027-01-10,1250.0

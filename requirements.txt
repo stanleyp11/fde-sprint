@@ -1,0 +1,10 @@
+pytest
+httpx
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+psycopg[binary]
+rich
+stripe
+simple-salesforce
